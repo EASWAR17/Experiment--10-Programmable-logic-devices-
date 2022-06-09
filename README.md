@@ -22,11 +22,21 @@ Figure -01 PROM
  
  
 ### Procedure
-1.Start the module using module ten();
+1.Start the module using module ten().
+
+
 2.Declare the inputs clock and outputs required.
+
+
 3.Begin tha logic with negative edge clock.
+
+
 4.Assign differnt values for different address.
+
+
 5.End module.
+
+
 6.Generate RTL and TIMINIG DIAGRAM.
 
 
